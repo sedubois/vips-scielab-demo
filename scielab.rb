@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require "vips"
 
 def scielab(a, b)
