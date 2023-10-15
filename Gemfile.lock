@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.16.3)
+    ruby-vips (2.1.4)
+      ffi (~> 1.12)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  ruby-vips (~> 2.1)
+
+RUBY VERSION
+   ruby 3.2.2p53
+
+BUNDLED WITH
+   2.4.20
